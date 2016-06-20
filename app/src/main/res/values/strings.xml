@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NRIC Checker</string>
+    <string-array name="check_digits">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>Z</item>
+        <item>J</item>
+    </string-array>
+</resources>
